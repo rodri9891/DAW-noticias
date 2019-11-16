@@ -3,6 +3,6 @@ language: php
 php:
    - 5.5
    env: WP_TRAVISCI=travis:phpunit
- 
+
 # addons:
 #  mysql: "5.6"
